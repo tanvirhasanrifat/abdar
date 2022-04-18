@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333388666904",
+    "project_id": "abdar-bebb8",
+    "storage_bucket": "abdar-bebb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333388666904:android:21f33ba682f5bccd154b6d",
+        "android_client_info": {
+          "package_name": "com.example.abdar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333388666904-rs3jagsijpk076tmim31polf3k4tkqiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdar",
+            "certificate_hash": "25fa654135d618d9dbbd9a82f1ddb950062d2bb9"
+          }
+        },
+        {
+          "client_id": "333388666904-80ob8u8po7iujqdr5eek3eiik8k8c0ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBp5GIQIWV8m0R96coaDwX0_DEfFAwUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333388666904-80ob8u8po7iujqdr5eek3eiik8k8c0ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
