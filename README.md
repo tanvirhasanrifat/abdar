@@ -1,6 +1,6 @@
 # abdar
 
-A new Flutter project.
+A new Flutter E-commerce project done with Firebase, where sellers and buyers can connect together.
 
 ## Getting Started
 
